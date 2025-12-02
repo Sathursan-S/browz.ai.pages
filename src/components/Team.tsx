@@ -11,19 +11,22 @@ const Team: React.FC = () => {
     {
       name: "Sathursan S",
       role: t('team.roleCore'),
-      link: "https://www.linkedin.com/in/sathursan-suthakaran/"
+      link: "https://www.linkedin.com/in/sathursan-sanmukanathan/"
     },
     {
       name: "Samyuktha V",
       role: t('team.roleCore'),
+      link: "https://www.linkedin.com/in/samyuktha-vimalanathan/"
     },
     {
       name: "Dhahlan A.S.A",
       role: t('team.roleCore'),
+      link: "https://www.linkedin.com/in/ahamed-dhahlan-758266210/"
     },
     {
       name: "Dr. Kushan Sudheera",
       role: t('team.roleSuper'),
+      link: "https://www.linkedin.com/in/kaysudheera/"
     },
   ];
 

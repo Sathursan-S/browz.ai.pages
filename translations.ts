@@ -75,6 +75,7 @@ export const translations = {
       title: "Project Team",
       subtitle: "THE MINDS BEHIND BROWZ.AI",
       dept: "Department of Electrical and Information Engineering\nFaculty of Engineering, University of Ruhuna",
+      roleLead: "Lead Engineer",
       roleCore: "Core Contributor",
       roleSuper: "Supervisor (Senior Lecturer)"
     },
@@ -161,6 +162,7 @@ export const translations = {
       title: "திட்டக் குழு",
       subtitle: "BROWZ.AI இன் மூளைகள்",
       dept: "மின் மற்றும் தகவல் பொறியியல் துறை\nபொறியியல் பீடம், ருஹுன பல்கலைக்கழகம்",
+      roleLead: "முன்னணி பொறியாளர்",
       roleCore: "முக்கிய பங்களிப்பாளர்",
       roleSuper: "மேற்பார்வையாளர் (மூத்த விரிவுரையாளர்)"
     },

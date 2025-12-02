@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://Sathursan-S.github.io/browz.ai.pages",
+  "homepage": "https://sathursan-s.github.io/browz.ai.pages",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
