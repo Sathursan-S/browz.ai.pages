@@ -1,4 +1,5 @@
 
+
 export const translations = {
   en: {
     nav: {
@@ -74,6 +75,7 @@ export const translations = {
       title: "Project Team",
       subtitle: "THE MINDS BEHIND BROWZ.AI",
       dept: "Department of Electrical and Information Engineering\nFaculty of Engineering, University of Ruhuna",
+      roleLead: "Lead Engineer",
       roleCore: "Core Contributor",
       roleSuper: "Supervisor (Senior Lecturer)"
     },
@@ -97,17 +99,17 @@ export const translations = {
       viewCode: "குறியீட்டைக் காண்க"
     },
     hero: {
-      badge: "Vibe Browsing வந்துவிட்டது",
-      titlePrefix: "நாங்கள் உலாவிக்கு கொடுக்கிறோம்",
-      titleHighlight: "ஒரு மூளை மற்றும் கைகள்.",
-      subtitle: "Browz.AI எளிய குரல் அல்லது உரை கட்டளைகளை சிக்கலான உலாவி செயல்களாக மாற்றுகிறது.",
-      ctaDeploy: "ஏஜெண்டை நிறுவு",
-      ctaResearch: "ஆய்வை வாசிக்க",
+      badge: "Vibe Browsing இதோ",
+      titlePrefix: "நாங்கள் உலாவிக்குத் தருவது",
+      titleHighlight: "சிந்திக்கும் மூளையும், செயல்படும் கைகளும்.",
+      subtitle: "Browz.AI உங்கள் எளிய மொழிக் கட்டளைகளைப் புரிந்துகொண்டு, சிக்கலான இணையச் செயல்களைத் தானாகவே செய்து முடிக்கும்.",
+      ctaDeploy: "Agent-ஐ செயல்படுத்து",
+      ctaResearch: "ஆய்வறிக்கையை வாசிக்க",
       cardInput: "உள்ளீடு",
       cardAction: "செயல்",
-      processing: "DOM செயலாக்கப்படுகிறத...",
-      inputExample: "அடுத்த திங்கட்கிழமை கொழும்புக்கு விமான முன்பதிவு செய்.",
-      actionExample: "#btn-submit தேர்வியில் 'விமானங்களைத் தேடு' பொத்தானைக் கிளிக் செய்தல்"
+      processing: "DOM செயலாக்கம்...",
+      inputExample: "அடுத்த திங்கட்கிழமை கொழும்பு செல்ல விமானம் புக் செய்.",
+      actionExample: "#btn-submit தேர்வியில் 'Search Flights' பட்டனை கிளிக் செய்கிறது"
     },
     about: {
       concept: "கருத்துரு",
@@ -160,6 +162,7 @@ export const translations = {
       title: "திட்டக் குழு",
       subtitle: "BROWZ.AI இன் மூளைகள்",
       dept: "மின் மற்றும் தகவல் பொறியியல் துறை\nபொறியியல் பீடம், ருஹுன பல்கலைக்கழகம்",
+      roleLead: "முன்னணி பொறியாளர்",
       roleCore: "முக்கிய பங்களிப்பாளர்",
       roleSuper: "மேற்பார்வையாளர் (மூத்த விரிவுரையாளர்)"
     },
