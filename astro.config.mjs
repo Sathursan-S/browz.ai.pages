@@ -6,6 +6,6 @@ import tailwind from '@astrojs/tailwind';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://Sathursan-S.github.io',
-  base: '/Browser.AI',
+  base: '/browz.ai.pages',
   integrations: [react(), tailwind()],
 });
