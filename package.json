@@ -1,10 +1,9 @@
-
 {
   "name": "browz-ai",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://Sathursan-S.github.io/Browser.AI",
+  "homepage": "https://Sathursan-S.github.io/browz.ai.pages",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
