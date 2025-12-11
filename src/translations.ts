@@ -188,7 +188,7 @@ export const translations = {
     hero: {
       badge: "Vibe Browsing දැන් පැමිණ ඇත",
       titlePrefix: "අපි ඔබේ බ්‍රව්සරයට ලබා දෙමු",
-      titleHighlight: "මොළයක් සහ දෑත්.",
+      titleHighlight: "බුද්ධියක් සහ දෑතක්.",
       subtitle: "Browz.AI සරල හඬ හෝ පෙළ විධාන සංකීර්ණ බ්‍රව්සර් ක්‍රියා බවට පත් කරයි.",
       ctaDeploy: "Agent පිහිටුවන්න",
       ctaResearch: "පර්යේෂණ කියවන්න",
